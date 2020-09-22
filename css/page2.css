@@ -64,10 +64,10 @@ a:focus {
 
 #sidebar {
     padding-right: 60px;
-    width: 362px;
+    width: 550px;
     position: fixed;
     top: 0;
-    right: -385px;
+    right: -551px;
     height: 100vh;
     z-index: 999;
     background: #FFFFFF;
